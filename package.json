@@ -19,7 +19,9 @@
   },
   "homepage": "https://github.com/vakrathundaya/social-network-api#readme",
   "dependencies": {
+    "dateformat": "^5.0.3",
     "express": "^4.17.3",
+    "moment": "^2.29.2",
     "mongoose": "^6.2.10"
   }
 }
