@@ -25,10 +25,11 @@ This application demonstrates the database for a social networking application. 
 Please view walk through videos to demonstrate the API routes.<br>
   
 
-https://user-images.githubusercontent.com/94205464/162600614-007251f7-4e93-4757-ae69-2c7ad4df6490.mp4
 
-https://user-images.githubusercontent.com/94205464/162600672-7a3fb072-16c8-4ac6-82b3-0e4f1b635ee3.mp4
+https://user-images.githubusercontent.com/94205464/163096343-2b8ae505-0b6d-4130-9448-c301acab1048.mp4
 
+
+https://user-images.githubusercontent.com/94205464/163096345-c255bc2d-d6ac-42e9-8dfe-a01cbd4b0711.mp4
 
   ## License 
 

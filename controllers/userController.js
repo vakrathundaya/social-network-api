@@ -46,7 +46,7 @@ const userController = {
                 res.status(404).json({ message: 'No user found with this ID!' }) :
                 User.deleteMany({ _id: { $in: User.thoughts } }))
 
-            .then(() => res.json({ message: 'User and thoughts deleted!' }))
+            .then(() => res.status(200).json({ message: 'User and thoughts deleted!' }))
             .catch((err) => res.status(500).json(err))
     },
 
